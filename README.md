@@ -128,7 +128,6 @@ I am very curious about what other students have come up with.
 - `scripts/`: Python scripts used for data analysis.
 - `figures/`: Visualizations generated from the analysis.
 - `README.md`: Project description and plan.
-- `LICENSE`: Project license information.
 
 ---
 
