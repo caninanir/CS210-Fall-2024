@@ -77,7 +77,7 @@ I will most likely utilize the following tools:
 - **Scatter Plots**: Relationship between day number and time spent. Also exam an study time.
 - **Regression Lines**: Predictive analysis for future study times. (Might be too sporadic for prediction)
 
-Visualizations are available in the `figures` folder.
+Visualizations will be available in the `figures` folder. (TO BE ADDED)
 
 ---
 
