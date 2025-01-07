@@ -74,17 +74,17 @@ I utilized the following tools:
 ### 1. Study Hours vs. Sleep Hours
 This scatter plot highlights the relationship between study and sleep hours, with deadline days marked as red triangles and non-deadline days as blue circles.
 
-![Scatter Plot](figures/scatter_study_vs_sleep.png)
+![Scatter Plot](figures/scatterplot.png)
 
 ### 2. Average Daily Time Allocation by Deadline Day
 A bar chart comparing the average time spent on study, sleep, and other activities between deadline and non-deadline days.
 
-![Bar Chart](figures/avg_time_allocation.png)
+![Bar Chart](figures/barchart.png)
 
 ### 3. Correlation Heatmap for Deadline Days
 A 3x3 heatmap showing correlations between `Study_Hours`, `Sleep_Hours`, and `Other_Hours` on deadline days.
 
-![Heatmap](figures/correlation_heatmap_deadline.png)
+![Heatmap](figures/corheatmap1.png)
 
 ---
 
