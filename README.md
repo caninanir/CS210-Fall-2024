@@ -84,7 +84,7 @@ A bar chart comparing the average time spent on study, sleep, and other activiti
 ### 3. Correlation Heatmap for Deadline Days
 A 3x3 heatmap showing correlations between `Study_Hours`, `Sleep_Hours`, and `Other_Hours` on deadline days.
 
-![Heatmap](figures/corheatmap1.png)
+![Heatmap](figures/corheat1.png)
 
 ---
 
